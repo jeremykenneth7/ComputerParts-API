@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "nama": "PROCESSOR AMD FX 8300",
+      "nama": "AMD FX 8300",
       "harga": "550000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lmisg9pukgp8f7",
       "tipe": "Processor",
@@ -82,7 +82,7 @@
     },
     {
       "id": "11",
-      "nama": "ASROCK H610M-HVS/M.2 DDR4",
+      "nama": "ASROCK H610M-HVS",
       "harga": "1167500",
       "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-22090-smmc2e4miwhv53",
       "tipe": "Motherboard",
@@ -122,7 +122,7 @@
     },
     {
       "id": "16",
-      "nama": "ASUS GeForce GTX 1650",
+      "nama": "ASUS GTX 1650",
       "harga": "2398000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134201-23020-nh3kyldqdonvd4",
       "tipe": "VGA",
@@ -130,7 +130,7 @@
     },
     {
       "id": "17",
-      "nama": "NVIDIA Geforce GTX 750 TI",
+      "nama": "Geforce GTX 750 TI",
       "harga": "1050000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-llq21vt7qgmj30",
       "tipe": "VGA",
@@ -138,7 +138,7 @@
     },
     {
       "id": "18",
-      "nama": "VURRION GTX 750TI 4GB",
+      "nama": "VURRION GTX 750TI",
       "harga": "1040000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-llvp8rhnp8s4bf",
       "tipe": "VGA",
@@ -146,7 +146,7 @@
     },
     {
       "id": "19",
-      "nama": "NVIDIA GTX 1660 SUPER",
+      "nama": "GTX 1660 SUPER",
       "harga": "1800000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-llq21vt7qgmj30",
       "tipe": "VGA",
