@@ -2,7 +2,7 @@
   "computers": [
     {
       "id": "1",
-      "nama": "INTEL CORE I7 7700K TRAY LGA 1151",
+      "nama": "INTEL CORE I7 7700K",
       "harga": "2150000",
       "gambar": "https://down-id.img.susercontent.com/file/ee901506f2a7e9a7fa2de3700bb47778",
       "tipe": "Processor",
@@ -18,7 +18,7 @@
     },
     {
       "id": "3",
-      "nama": "INTEL CORE I3 12100F TRAY LGA 1700",
+      "nama": "INTEL CORE I3 12100F",
       "harga": "1375000",
       "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-23010-3auei7mg4rlv4b",
       "tipe": "Processor",
@@ -66,7 +66,7 @@
     },
     {
       "id": "9",
-      "nama": "AMD Ryzen 5 1400 4-Core 8-Threads 3.2 GHz - 3.4 GHz",
+      "nama": "AMD Ryzen 5 1400",
       "harga": "599000",
       "gambar": "https://down-id.img.susercontent.com/file/32a92743140505e5c0a151552794bd9a",
       "tipe": "Processor",
@@ -90,7 +90,7 @@
     },
     {
       "id": "12",
-      "nama": "Motherboard Gaming B250 REVOLVER VARRO SUPPORT NVME",
+      "nama": "Varro Gaming B250",
       "harga": "640000",
       "gambar": "https://down-id.img.susercontent.com/file/c5cf6905283c1130661050efdbf4f416",
       "tipe": "Motherboard",
@@ -98,7 +98,7 @@
     },
     {
       "id": "13",
-      "nama": "Asrock B550M PRO SE AMD AM4 PRO565 DDR4",
+      "nama": "Asrock B550M",
       "harga": "1465000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lliqejo4zq6k12",
       "tipe": "Motherboard",
@@ -106,7 +106,7 @@
     },
     {
       "id": "14",
-      "nama": "Digital Alliance H81 NVME Intel Socket LGA 1150",
+      "nama": "Digital Alliance H81",
       "harga": "455000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7qukx-lfpa2tbrgdw2d6",
       "tipe": "Motherboard",
@@ -114,7 +114,7 @@
     },
     {
       "id": "15",
-      "nama": "Gigabyte H310 Onboard Support Gen 8 dan 9 LGA1151 Garansi",
+      "nama": "Gigabyte H310",
       "harga": "645000",
       "gambar": "https://down-id.img.susercontent.com/file/f0c2cbee154c70c63d77bfb35f4d048d",
       "tipe": "Motherboard",
@@ -122,7 +122,7 @@
     },
     {
       "id": "16",
-      "nama": "ASUS GeForce GTX 1650 DUAL OC V2 4GB GDDR6 VGA GTX1650 P 4G DDR6",
+      "nama": "ASUS GeForce GTX 1650",
       "harga": "2398000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134201-23020-nh3kyldqdonvd4",
       "tipe": "VGA",
@@ -130,7 +130,7 @@
     },
     {
       "id": "17",
-      "nama": "VGA PCIe NVIDIA Geforce GTX 750 Ti 4GB 128Bit GDDR5",
+      "nama": "NVIDIA Geforce GTX 750 TI",
       "harga": "1050000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-llq21vt7qgmj30",
       "tipe": "VGA",
@@ -138,7 +138,7 @@
     },
     {
       "id": "18",
-      "nama": "VGA VURRION GTX 750TI 4GB DDR5 128Bit GAMING",
+      "nama": "VURRION GTX 750TI 4GB",
       "harga": "1040000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-llvp8rhnp8s4bf",
       "tipe": "VGA",
@@ -146,7 +146,7 @@
     },
     {
       "id": "19",
-      "nama": "VGA NVIDIA GTX 1660 SUPER",
+      "nama": "NVIDIA GTX 1660 SUPER",
       "harga": "1800000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-llq21vt7qgmj30",
       "tipe": "VGA",
@@ -154,7 +154,7 @@
     },
     {
       "id": "20",
-      "nama": "VGA ASUS GTX 950 2GB 128BIT GDDR5",
+      "nama": "ASUS GTX 950 2GB",
       "harga": "750000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lmzvil3ynqhjed",
       "tipe": "VGA",
